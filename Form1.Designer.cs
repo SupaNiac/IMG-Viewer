@@ -32,6 +32,7 @@
             favorites = new ListBox();
             addFavorites = new Button();
             pictureBox1 = new PictureBox();
+            Removebutton1 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -59,9 +60,9 @@
             // 
             // addFavorites
             // 
-            addFavorites.Location = new Point(129, 157);
+            addFavorites.Location = new Point(12, 158);
             addFavorites.Name = "addFavorites";
-            addFavorites.Size = new Size(264, 34);
+            addFavorites.Size = new Size(223, 34);
             addFavorites.TabIndex = 2;
             addFavorites.Text = "Add to favorites";
             addFavorites.UseVisualStyleBackColor = true;
@@ -77,11 +78,22 @@
             pictureBox1.TabIndex = 3;
             pictureBox1.TabStop = false;
             // 
+            // Removebutton1
+            // 
+            Removebutton1.Location = new Point(278, 158);
+            Removebutton1.Name = "Removebutton1";
+            Removebutton1.Size = new Size(213, 34);
+            Removebutton1.TabIndex = 4;
+            Removebutton1.Text = "Remove from favorites";
+            Removebutton1.UseVisualStyleBackColor = true;
+            Removebutton1.Click += button1_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(503, 851);
+            Controls.Add(Removebutton1);
             Controls.Add(pictureBox1);
             Controls.Add(addFavorites);
             Controls.Add(favorites);
@@ -99,5 +111,6 @@
         private ListBox favorites;
         private Button addFavorites;
         private PictureBox pictureBox1;
+        private Button Removebutton1;
     }
 }

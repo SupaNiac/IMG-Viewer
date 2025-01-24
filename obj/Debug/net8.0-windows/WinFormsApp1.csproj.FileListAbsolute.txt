@@ -14,3 +14,4 @@ C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Pro
 C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Project IMG\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
 C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Project IMG\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Project IMG\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Project IMG\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
