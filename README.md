@@ -1,2 +1,2 @@
-# IMG-Visualizer
-A simple image visualizer made in C# 
+# IMG-Viewer
+A simple image viewer made in C# 
