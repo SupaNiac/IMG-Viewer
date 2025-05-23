@@ -12,10 +12,10 @@ IMG-Viewer é um visualizador de imagem simples desenvolvido em C# no windows.
 
 ## Capturas de tela
 
-![Screenshot 1](imgc#/imgc#)
+![Screenshot 1](imgc#/imgc#.png)
 
 
-![Screenshot 2](imagemdoprojetoC#/imagemdoprojetoC#)
+![Screenshot 2](imagemdoprojetoC#/imagemdoprojetoC#.png)
 *É possível adicionar e remover dos favoritos*
 
 ## Requisitos do Sistema
